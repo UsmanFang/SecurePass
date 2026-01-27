@@ -39,7 +39,13 @@ USER MENU
       reg add HKCU\Console /v VirtualTerminalLevel /t REG_DWORD /d 1
 1. Download [SecurePass.zip](https://github.com/UsmanFang/SecurePass/raw/refs/heads/main/SecurePass.zip)
 2. Extract all files and folders
-3. 
+3. Open ``PasswordVault.exe``
+      First Time Admin Login
+
+       Username: admin
+       Password: superadmin123
+   
+5. Your secure password manager is ready to use.
 
 
 
