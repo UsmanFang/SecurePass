@@ -28,7 +28,18 @@ USER MENU
    4. Generate Random Password
 
 # How to Use?
+## Souce Code 
 1. Open the source code in any java editor or VS Code and run.
    or
 2. Run in Command Prompt using [javac PasswordVault.java] to compile and then [java PasswordVault] to run.
+
+## EXE
+- One-Time Action: For the very first time, Open Command Prompt and paste this command:
+
+      reg add HKCU\Console /v VirtualTerminalLevel /t REG_DWORD /d 1
+1. Download [SecurePass.zip](https://github.com/UsmanFang/SecurePass/raw/refs/heads/main/SecurePass.zip)
+2. Extract all files and folders
+3. 
+
+
 
