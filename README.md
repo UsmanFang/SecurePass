@@ -1,6 +1,7 @@
 - The ``Source Code`` can be located in [Source Code Directory](https://github.com/UsmanFang/SecurePass/tree/main/Source%20Code)
 - The ``EXE file`` is located in SecurePass.zip — [Download Zip](https://github.com/UsmanFang/SecurePass/raw/refs/heads/main/SecurePass.zip)
-     Java installation is not Required for EXE file
+
+      Java installation is not Required for EXE file
 
 # SecurePass - Password Manager
 A simple password manager featuring two control levels namely ADMIN and USER. Users can save and retreive passwords while admin has a wider control. All passwords are saved in encrypted form.
