@@ -1,5 +1,4 @@
 - The '''Source Code''' can be located in [Source Code Directory](https://github.com/UsmanFang/SecurePass/tree/main/Source%20Code)
-Directory
 - The '''EXE file''' is located in '''SecurePass.zip''' — [Download Zip](https://github.com/UsmanFang/SecurePass/raw/refs/heads/main/SecurePass.zip)
 
 # SecurePass - Password Manager
