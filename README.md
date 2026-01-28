@@ -31,7 +31,7 @@ USER MENU
 ## Souce Code 
 1. Open the source code in any java editor or VS Code and run.
    or
-2. Run in Command Prompt using [javac PasswordVault.java] to compile and then [java PasswordVault] to run.
+2. Run in Command Prompt using ``javac PasswordVault.java`` to compile and then ``java PasswordVault`` to run.
 
 ## EXE
 - One-Time Action: For the very first time, Open Command Prompt and paste this command:
