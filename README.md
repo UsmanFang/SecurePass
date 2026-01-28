@@ -10,7 +10,7 @@ A simple password manager featuring two control levels namely ADMIN and USER. Us
  >Java only
 # Key Features
 
-ADMIN MENU
+ADMIN MENU          
  ╠════════════════════════════════════════════════╣
    1. Add New Password
    2. Delete Passwords
