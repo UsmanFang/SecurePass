@@ -10,7 +10,7 @@
 ## Collaborators
 
 - MUHAMMAD KAIF QURESHI &nbsp;&nbsp;&nbsp;&nbsp; [Github Profile](https://github.com/m-kaif-qureshi)<br>
-- MUHAMMAD USMAN &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github Profile](https://github.com/UsmanFang)<br>
+- MUHAMMAD USMAN &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github Profile](https://github.com/UsmanFang)<br>
 ##
 
 
