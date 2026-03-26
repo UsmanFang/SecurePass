@@ -6,6 +6,14 @@
 - ### Source Code
   The ``Source Code`` can be located in [Source Code Directory](https://github.com/UsmanFang/SecurePass/tree/main/Source%20Code)
 
+
+## Collaborators
+
+- MUHAMMAD USMAN           [Github Profile](https://github.com/UsmanFang)<br>
+- MUHAMMAD KAIF QURESHI    [Github Profile](https://github.com/m-kaif-qureshi)<br>
+##
+
+
 # SecurePass - Password Manager
 A simple password manager featuring two control levels namely ADMIN and USER. Users can save and retreive passwords while admin has a wider control. All passwords are saved in encrypted form.
 
