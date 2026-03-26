@@ -9,8 +9,8 @@
 
 ## Collaborators
 
-- MUHAMMAD USMAN           [Github Profile](https://github.com/UsmanFang)<br>
 - MUHAMMAD KAIF QURESHI    [Github Profile](https://github.com/m-kaif-qureshi)<br>
+- MUHAMMAD USMAN           [Github Profile](https://github.com/UsmanFang)<br>
 ##
 
 
